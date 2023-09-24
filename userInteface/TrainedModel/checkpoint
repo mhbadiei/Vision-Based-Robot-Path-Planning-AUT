@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\dars\\Project_BS_CE\\gestureRecognition\\TrainedModel\\GestureRecogModel.tfl"
+all_model_checkpoint_paths: "D:\\dars\\Project_BS_CE\\gestureRecognition\\TrainedModel\\GestureRecogModel.tfl"
