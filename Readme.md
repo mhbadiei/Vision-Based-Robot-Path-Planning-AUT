@@ -8,7 +8,8 @@ In our experimentation, the direction detection system achieved an accuracy rate
 
 In conclusion, this study demonstrates the potential of integrating IoT, deep neural networks, computer vision, and human-computer interaction to create an intelligent robot capable of efficient navigation within dynamic environments. It highlights the robustness and adaptability of the proposed algorithms and systems, offering insights into the future of intelligent robotics.
 
-Explore our project in action by watching the video.
+![Watch the Project Gif](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/gif.gif)
+
+Explore our project in action by watching the full version video.
 
 [Watch the Project Video](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/video.mp4)
-![Watch the Project Gif](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/gif.gif)
