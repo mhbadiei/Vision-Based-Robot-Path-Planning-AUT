@@ -1,3 +1,4 @@
+# Vision-Based Robot Path Planning
 In this project, drawing upon knowledge from robotics, neural networks, Internet of Things (IoT), machine learning, and information fusion algorithms, we have implemented an intelligent robot within the Gazebo simulator environment.
 
 This robot receives control commands from a direction detection system based on a convolutional neural network (CNN) model. It seamlessly switches between autonomous and manual modes depending on the presence or absence of obstacles. In autonomous mode, the robot utilizes laser sensors for obstacle detection, whereas in manual mode, it responds to commands received through image analysis from an onboard camera, processed via a CNN.
