@@ -11,6 +11,6 @@ In conclusion, this study demonstrates the potential of integrating IoT, deep ne
 
 ![Watch the Project Gif](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/gif.gif)
 
-Explore our project in action by watching the full version video.
+Explore our project in action by watching the full version video:
 
 [Watch the Project Video](https://github.com/mhbadiei/Computer-Engineering-Bachelor-Thesis-AUT/blob/main/video.mp4) 
